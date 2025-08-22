@@ -33,7 +33,7 @@ function AddProduct() {
         <Form.Group className="mb-3">
           <Form.Label>Title</Form.Label>
           <Form.Control name="title" onChange={handleChange} required />
-        </Form.Group>
+        </Form.Group>.
         <Form.Group className="mb-3">
           <Form.Label>Price</Form.Label>
           <Form.Control type="number" name="price" onChange={handleChange} required />
